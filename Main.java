@@ -29,7 +29,7 @@ class Main {
                          "Press 2 to learn about the job.\n" +
                          "Press 3 to learn about demand.\n" +
                          "Press 4 to view current students.\n" +
-                         "Press 5 to quit");
+                         "Press 5 to quit.");
     int action = scanner.nextInt();
         if(action==1){
           System.out.println("$98,345 average salary in South Florida!");
