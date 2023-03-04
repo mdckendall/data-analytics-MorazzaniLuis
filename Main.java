@@ -41,6 +41,7 @@ class Main {
           System.out.println("Top 10 Forbes In-Demand Jobs!");
           }
         else if(action==4){
+          System.out.println("Current Students:");
           for(String name : namesInFile){
             System.out.println(name);
             }          
